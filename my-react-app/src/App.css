@@ -3,7 +3,7 @@
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background-image: url('vatten.jpg'); /* Ersätt 'vatten.jpg' med namnet på din bildfil */
+  background-image: url('vatten.jpg'); 
   background-size: cover;
   background-position: center;
 }
@@ -42,7 +42,7 @@
 
 
 aside h2 {
-  font-size: 3rem; /* Behåll storleken på rubriken större */
+  font-size: 3rem; 
 }
 
 aside ul {
@@ -55,9 +55,9 @@ aside li {
 }
 
 aside h3 {
-  font-size: 1.2em; /* Behåll storleken på rubriken större */
+  font-size: 1.2em; 
 }
 
 aside p {
-  font-size: em; /* Justera storleken efter behov */
+  font-size: em; 
 }
